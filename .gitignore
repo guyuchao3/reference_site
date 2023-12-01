@@ -10,7 +10,7 @@ yarn.lock
 .vscode
 .idea
 .snap
-.env
+#.env
 
 *.bak
 *.tem
