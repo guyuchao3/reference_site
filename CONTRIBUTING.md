@@ -426,6 +426,9 @@ jobs:
 <a href="https://github.com/Lmmmmmm-bb" title="_lmmmmmm">
   <img src="https://avatars.githubusercontent.com/u/54026110?v=4" width="42;" alt="_lmmmmmm"/>
 </a>
+<a href="https://github.com/zlfyuan" title="bgbgPang">
+  <img src="https://avatars.githubusercontent.com/u/19658018?v=4" width="42;" alt="bgbgPang"/>
+</a>
 <a href="https://github.com/chyok" title="chyok">
   <img src="https://avatars.githubusercontent.com/u/32629225?v=4" width="42;" alt="chyok"/>
 </a>
@@ -453,6 +456,9 @@ jobs:
 <a href="https://github.com/sunny0826" title="Xudong Guo">
   <img src="https://avatars.githubusercontent.com/u/24563928?v=4" width="42;" alt="Xudong Guo"/>
 </a>
+<a href="https://github.com/gzttcydxx" title="gzttcydxx">
+  <img src="https://avatars.githubusercontent.com/u/50025185?v=4" width="42;" alt="gzttcydxx"/>
+</a>
 <a href="https://github.com/hua03" title="hua03">
   <img src="https://avatars.githubusercontent.com/u/19561959?v=4" width="42;" alt="hua03"/>
 </a>
@@ -470,6 +476,9 @@ jobs:
 </a>
 <a href="https://github.com/joyfully-W" title="joyfully-W">
   <img src="https://avatars.githubusercontent.com/u/32212924?v=4" width="42;" alt="joyfully-W"/>
+</a>
+<a href="https://github.com/jussker" title="jussker">
+  <img src="https://avatars.githubusercontent.com/u/33953356?v=4" width="42;" alt="jussker"/>
 </a>
 <a href="https://github.com/k983551019" title="k983551019">
   <img src="https://avatars.githubusercontent.com/u/48147837?v=4" width="42;" alt="k983551019"/>
